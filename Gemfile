@@ -31,7 +31,7 @@ gem 'sdoc',          group: :doc
 gem 'thin'
 gem 'carrierwave'
 
-gem 'threejs-rails', git: 'git://github.com/marvindanig/threejs-rails.git'
+gem 'threejs-rails', git: 'https://github.com/marvindanig/threejs-rails.git'
 gem 'mysql2'
 gem 'csg'
 gem 'underscore-rails'
