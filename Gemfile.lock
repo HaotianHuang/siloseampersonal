@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/marvindanig/threejs-rails.git
+  remote: https://github.com/marvindanig/threejs-rails.git
   revision: 6fcd3bf1fc1f8d24d5e8ba31f46dd75bbf891fa4
   specs:
     threejs-rails (1.1.4)
